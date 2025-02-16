@@ -1,0 +1,23 @@
+img{
+    width: 500px;
+    height: 300px;
+    border-radius:10px;
+
+}
+h1{
+    color:darkolivegreen;
+    font-weight:900;  
+}
+h2[draggable]{
+    color: darkolivegreen;
+    font-weight: 800;
+}
+footer{
+    background-color: aquamarine;
+}
+#firsthead{
+    color: darkolivegreen;
+}
+#secondhead{
+    color: darkolivegreen;
+}
