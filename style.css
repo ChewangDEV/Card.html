@@ -1,0 +1,45 @@
+img{
+    width: 350px;
+    height: 300px;
+    border-radius:10px;
+
+}
+h1{
+    color:darkolivegreen;
+    font-weight:900;  
+}
+h2[draggable]{
+    color: darkolivegreen;
+    font-weight: 800;
+}
+footer{
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+}
+#firsthead{
+    color: darkolivegreen;
+}
+#secondhead{
+    color: darkolivegreen;
+}
+html{
+    background-color: black;
+}
+p{
+   color: darkolivegreen;
+}
+.link-color{
+    color: white;
+}
+li{
+    color: darkolivegreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+}
+Feedback{
+    color: white;
+}
+div{
+    color: white;
+}
